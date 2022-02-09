@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF6a1E48c2FA4b0Db0b4ba8dfe358d1036aCb12F6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf6a1e48c2fa4b0db0b4ba8dfe358d1036acb12f6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MINT",
+  "SYMBOL": "MINT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mint-gy5rjebzur",
+  "SHOW_BACKGROUND": true
+}
